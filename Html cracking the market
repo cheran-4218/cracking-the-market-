@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cracking the Market Code with AI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        header {
+            background-color: #2e3b4e;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 40px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #2e3b4e;
+        }
+        footer {
+            background-color: #2e3b4e;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Cracking the Market Code with AI-Driven Stock Price Prediction</h1>
+    <p>Using Time Series Analysis and Machine Learning</p>
+</header>
+
+<main>
+    <section>
+        <h2>Introduction</h2>
+        <p>This project explores the use of AI and time series analysis to predict stock market trends. By leveraging deep learning models and historical stock data, we aim to enhance prediction accuracy for investment strategies.</p>
+    </section>
+
+    <section>
+        <h2>Methodology</h2>
+        <p>We collect historical stock price data from publicly available sources such as Yahoo Finance or Alpha Vantage. After preprocessing and normalizing the data, we apply time series analysis techniques and build predictive models using LSTM neural networks.</p>
+    </section>
+
+    <section>
+        <h2>AI Model</h2>
+        <p>The Long Short-Term Memory (LSTM) network is used to model time-dependent behavior of stock prices. The model is trained to learn patterns in historical data and make short-term future predictions.</p>
+    </section>
+
+    <section>
+        <h2>Results</h2>
+        <p>Our experiments show promising results, with the AI model successfully predicting trends and price movements within a tolerable error margin. The model's performance is evaluated using RMSE and visualized with prediction vs. actual charts.</p>
+    </section>
+
+    <section>
+        <h2>Conclusion</h2>
+        <p>AI-driven time series forecasting presents a powerful tool for financial analysis. While no model can guarantee accuracy due to market volatility, integrating AI into trading strategies can enhance decision-making and reduce risk.</p>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2025 AI Stock Lab | All rights reserved</p>
+</footer>
+
+</body>
+</html>
